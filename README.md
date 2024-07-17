@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our League of Legends account switcher application ("the Application"). This Privacy Policy explains how we collect, use, and protect your information when you use our Application. By using the Application, you agree to the collection and use of information in accordance with this policy.
+Welcome to our League of Legends account switcher application ("Xenra"). This Privacy Policy explains how we collect, use, and protect your information when you use our Application. By using the Application, you agree to the collection and use of information in accordance with this policy.
 
 ## Information We Collect
 
